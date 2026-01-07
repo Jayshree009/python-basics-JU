@@ -1,0 +1,4 @@
+This is sample file for practicing Append and Len functions in Python.
+This is in append mode
+This is in append mode
+This is in append mode
